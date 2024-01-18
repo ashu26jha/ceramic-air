@@ -47,11 +47,10 @@
 
 .sidebar-section-link-wrapper {
   border: 2px solid #000; 
-  border-radius: 10px;
   transition: border-radius 0.3s; 
 }
 
-li.sidebar-section-link-wrapper:hover {
+.sidebar-section-link-wrapper:hover {
   border-radius: 10px; 
 }
 
